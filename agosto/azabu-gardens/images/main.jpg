@@ -1,0 +1,10 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="600" fill="#1a3a1a"/>
+<circle cx="200" cy="200" r="80" fill="#2a5a2a"/>
+<circle cx="400" cy="150" r="100" fill="#3a6a3a"/>
+<circle cx="600" cy="220" r="70" fill="#2a5a2a"/>
+<rect x="100" y="350" width="600" height="150" fill="#4a7a4a"/>
+<text x="400" y="280" text-anchor="middle" fill="#ffffff" font-size="32" font-family="Arial, sans-serif" font-weight="bold">AZABU GARDENS</text>
+<text x="400" y="320" text-anchor="middle" fill="#cccccc" font-size="18" font-family="Arial, sans-serif">Jardines Urbanos</text>
+<text x="400" y="550" text-anchor="middle" fill="#999999" font-size="14" font-family="Arial, sans-serif">Reemplaza esta imagen con tu foto real</text>
+</svg>

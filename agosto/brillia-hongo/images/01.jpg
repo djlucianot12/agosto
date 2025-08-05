@@ -1,0 +1,17 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="brillia1" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" style="stop-color:#2a2a4a;stop-opacity:1" />
+<stop offset="100%" style="stop-color:#4a4a6a;stop-opacity:1" />
+</linearGradient>
+</defs>
+<rect width="800" height="600" fill="url(#brillia1)"/>
+<rect x="150" y="50" width="100" height="450" fill="#5a5a7a"/>
+<rect x="300" y="30" width="120" height="470" fill="#6a6a8a"/>
+<rect x="470" y="60" width="80" height="440" fill="#5a5a7a"/>
+<rect x="580" y="80" width="70" height="420" fill="#4a4a6a"/>
+<rect x="0" y="500" width="800" height="100" fill="#3a3a5a"/>
+<polygon points="200,300 250,280 300,300" fill="#7a7a9a"/>
+<text x="400" y="350" text-anchor="middle" fill="#ffffff" font-size="24" font-family="Arial" font-weight="bold">BRILLIA HONGO</text>
+<text x="400" y="380" text-anchor="middle" fill="#e0e0e0" font-size="16" font-family="Arial">Fachada de cristal con efectos de luz</text>
+</svg>
