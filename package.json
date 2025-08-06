@@ -1,0 +1,11 @@
+{
+  "name": "asmobius-static-site",
+  "version": "1.0.0",
+  "description": "LT STUDIO DESIGN static website",
+  "scripts": {
+    "dev": "npx serve -p 3000 'archivos/ULTIMA-main (3)/ULTIMA-main/asmobius.co.jp'",
+    "start": "npx serve -p 3000 'archivos/ULTIMA-main (3)/ULTIMA-main/asmobius.co.jp'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

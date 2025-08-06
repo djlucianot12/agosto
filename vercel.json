@@ -1,0 +1,20 @@
+{
+  "routes": [
+    {
+      "src": "/project-template.html",
+      "dest": "/project-template.html"
+    },
+    {
+      "src": "/assets/(.*)",
+      "dest": "/assets/$1"
+    },
+    {
+      "src": "/projects-data/(.*)",
+      "dest": "/projects-data/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
