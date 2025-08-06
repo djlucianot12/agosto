@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Generador de Imágenes Placeholder</title>
+</head>
+<body>
+    <canvas id="canvas" width="800" height="600"></canvas>
+    <script>
+        function createPlaceholderImage(projectName, subtitle, bgColor, filename) {
+            const canvas = document.getElementById('canvas');
+            const ctx = canvas.getContext('2d');
+            
+            // Limpiar canvas
+            ctx.fillStyle = bgColor;
+            ctx.fillRect(0, 0, 800, 600);
+            
+            // Agregar rectángulos de diseño
+            ctx.fillStyle = '#444444';
+            ctx.fillRect(100, 100, 600, 300);
+            
+            ctx.fillStyle = '#555555';
+            ctx.fillRect(150, 150, 500, 200);
+            
+            // Texto principal
+            ctx.fillStyle = '#ffffff';
+            ctx.font = 'bold 32px Arial';
+            ctx.textAlign = 'center';
+            ctx.fillText(projectName, 400, 280);
+            
+            // Subtítulo
+            ctx.fillStyle = '#cccccc';
+            ctx.font = '18px Arial';
+            ctx.fillText(subtitle, 400, 320);
+            
+            // Instrucción
+            ctx.fillStyle = '#999999';
+            ctx.font = '14px Arial';
+            ctx.fillText('Reemplaza esta imagen con tu foto real', 400, 500);
+            
+            // Descargar imagen
+            const link = document.createElement('a');
+            link.download = filename;
+            link.href = canvas.toDataURL('image/jpeg', 0.8);
+            link.click();
+        }
+        
+        // Crear imágenes para todos los proyectos
+        const projects = [
+            ['PARK MANSION', 'Elegancia Urbana', '#2a3a4a', 'park-mansion-main.jpg'],
+            ['KAWANA', 'Silencio Kawana', '#2a4a2a', 'kawana-main.jpg'],
+            ['AZABU GARDENS', 'Jardines Urbanos', '#1a3a1a', 'azabu-gardens-main.jpg'],
+            ['BRILLIA HONGO', 'Brillo Metropolitano', '#1a1a3a', 'brillia-hongo-main.jpg'],
+            ['SHIBUYA TOWERS', 'Torres Metropolitanas', '#0a0a1a', 'shibuya-towers-main.jpg'],
+            ['GINZA PLAZA', 'Elegancia Comercial', '#2a1a0a', 'ginza-plaza-main.jpg']
+        ];
+        
+        setTimeout(() => {
+            projects.forEach(([name, subtitle, color, filename], index) => {
+                setTimeout(() => {
+                    createPlaceholderImage(name, subtitle, color, filename);
+                }, index * 1000);
+            });
+        }, 1000);
+    </script>
+</body>
+</html>
