@@ -1,0 +1,134 @@
+{
+  "project": {
+    "name": "ROPPONGI HILLS",
+    "subtitle": {
+      "es": "Colinas Cosmopolitas",
+      "en": "Cosmopolitan Hills"
+    },
+    "description": {
+      "es": "Roppongi Hills representa la evolución del diseño urbano contemporáneo, integrando vida, trabajo y entretenimiento en un ecosistema arquitectónico sofisticado. Este proyecto emblemático redefine el concepto de ciudad vertical.",
+      "en": "Roppongi Hills represents the evolution of contemporary urban design, integrating life, work, and entertainment in a sophisticated architectural ecosystem. This iconic project redefines the concept of vertical city."
+    },
+    "details": {
+      "es": {
+        "ubicación": "Roppongi, Tokyo",
+        "año": "2024",
+        "área": "4,200 m²",
+        "tipo": "Ciudad Vertical"
+      },
+      "en": {
+        "location": "Roppongi, Tokyo",
+        "year": "2024",
+        "area": "4,200 m²",
+        "type": "Vertical City"
+      }
+    }
+  },
+  "media": {
+    "main_image": "main.jpg",
+    "images": [
+      {
+        "filename": "01.jpg",
+        "caption": {
+          "es": "Complejo arquitectónico integrado",
+          "en": "Integrated architectural complex"
+        }
+      },
+      {
+        "filename": "02.jpg",
+        "caption": {
+          "es": "Torre principal con helipuerto",
+          "en": "Main tower with heliport"
+        }
+      },
+      {
+        "filename": "03.jpg",
+        "caption": {
+          "es": "Centro cultural y museo",
+          "en": "Cultural center and museum"
+        }
+      },
+      {
+        "filename": "04.jpg",
+        "caption": {
+          "es": "Residencias de ultra lujo",
+          "en": "Ultra-luxury residences"
+        }
+      },
+      {
+        "filename": "05.jpg",
+        "caption": {
+          "es": "Observatorio panorámico 360°",
+          "en": "360° panoramic observatory"
+        }
+      },
+      {
+        "filename": "06.jpg",
+        "caption": {
+          "es": "Jardines en diferentes niveles",
+          "en": "Gardens on different levels"
+        }
+      },
+      {
+        "filename": "07.jpg",
+        "caption": {
+          "es": "Centro de convenciones internacional",
+          "en": "International convention center"
+        }
+      },
+      {
+        "filename": "08.jpg",
+        "caption": {
+          "es": "Spa y centro de bienestar",
+          "en": "Spa and wellness center"
+        }
+      },
+      {
+        "filename": "09.jpg",
+        "caption": {
+          "es": "Escaleras mecánicas panorámicas",
+          "en": "Panoramic escalators"
+        }
+      },
+      {
+        "filename": "10.jpg",
+        "caption": {
+          "es": "Plaza central con eventos",
+          "en": "Central plaza with events"
+        }
+      },
+      {
+        "filename": "11.jpg",
+        "caption": {
+          "es": "Conectividad urbana inteligente",
+          "en": "Smart urban connectivity"
+        }
+      },
+      {
+        "filename": "12.jpg",
+        "caption": {
+          "es": "Vista aérea del ecosistema urbano",
+          "en": "Aerial view of urban ecosystem"
+        }
+      }
+    ],
+    "videos": [
+      {
+        "position": 5,
+        "youtube_url": "PEGA_AQUI_TU_LINK_DE_YOUTUBE",
+        "caption": {
+          "es": "La ciudad del futuro hoy",
+          "en": "The city of the future today"
+        }
+      },
+      {
+        "position": 9,
+        "youtube_url": "PEGA_AQUI_TU_SEGUNDO_LINK_DE_YOUTUBE",
+        "caption": {
+          "es": "Innovación arquitectónica",
+          "en": "Architectural innovation"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="600" fill="#1a1a2a"/>
+<rect x="250" y="20" width="120" height="480" fill="#3a3a5a"/>
+<rect x="430" y="50" width="100" height="450" fill="#2a2a4a"/>
+<rect x="170" y="80" width="80" height="420" fill="#2a2a4a"/>
+<rect x="550" y="100" width="90" height="400" fill="#1a1a3a"/>
+<polygon points="310,20 370,20 340,50" fill="#4a4a6a"/>
+<polygon points="470,50 530,50 500,80" fill="#3a3a5a"/>
+<text x="400" y="450" text-anchor="middle" fill="#ffffff" font-size="30" font-family="Arial, sans-serif" font-weight="bold">ROPPONGI HILLS</text>
+<text x="400" y="480" text-anchor="middle" fill="#cccccc" font-size="18" font-family="Arial, sans-serif">Colinas Cosmopolitas</text>
+<text x="400" y="550" text-anchor="middle" fill="#999999" font-size="14" font-family="Arial, sans-serif">Reemplaza esta imagen con tu foto real</text>
+</svg>
