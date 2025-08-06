@@ -1,0 +1,12 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="600" fill="#3a1a3a"/>
+<rect x="150" y="150" width="500" height="300" fill="#5a2a5a"/>
+<rect x="200" y="100" width="400" height="50" fill="#6a3a6a"/>
+<circle cx="250" cy="250" r="40" fill="#7a4a7a"/>
+<circle cx="400" cy="200" r="50" fill="#8a5a8a"/>
+<circle cx="550" cy="280" r="35" fill="#7a4a7a"/>
+<rect x="180" y="350" width="440" height="50" fill="#4a2a4a"/>
+<text x="400" y="480" text-anchor="middle" fill="#ffffff" font-size="30" font-family="Arial, sans-serif" font-weight="bold">HARAJUKU LOFT</text>
+<text x="400" y="510" text-anchor="middle" fill="#cccccc" font-size="18" font-family="Arial, sans-serif">Creatividad Urbana</text>
+<text x="400" y="560" text-anchor="middle" fill="#999999" font-size="14" font-family="Arial, sans-serif">Reemplaza esta imagen con tu foto real</text>
+</svg>

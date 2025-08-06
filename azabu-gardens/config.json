@@ -1,0 +1,127 @@
+{
+  "project": {
+    "name": "AZABU GARDENS",
+    "subtitle": {
+      "es": "Jardines Urbanos",
+      "en": "Urban Gardens"
+    },
+    "description": {
+      "es": "Azabu Gardens fusiona la vida urbana con la tranquilidad de espacios verdes exuberantes. Este desarrollo residencial exclusivo ofrece una experiencia de vida única donde cada hogar está conectado con jardines privados y comunitarios.",
+      "en": "Azabu Gardens merges urban life with the tranquility of lush green spaces. This exclusive residential development offers a unique living experience where every home is connected to private and community gardens."
+    },
+    "details": {
+      "es": {
+        "ubicación": "Azabu, Tokyo",
+        "año": "2024",
+        "área": "900 m²",
+        "tipo": "Residencial Premium"
+      },
+      "en": {
+        "location": "Azabu, Tokyo",
+        "year": "2024",
+        "area": "900 m²",
+        "type": "Premium Residential"
+      }
+    }
+  },
+  "media": {
+    "main_image": "main.jpg",
+    "images": [
+      {
+        "filename": "01.jpg",
+        "caption": {
+          "es": "Entrada principal con jardín vertical",
+          "en": "Main entrance with vertical garden"
+        }
+      },
+      {
+        "filename": "02.jpg",
+        "caption": {
+          "es": "Lobby con vista a jardines interiores",
+          "en": "Lobby overlooking interior gardens"
+        }
+      },
+      {
+        "filename": "03.jpg",
+        "caption": {
+          "es": "Apartamento con balcón jardín privado",
+          "en": "Apartment with private garden balcony"
+        }
+      },
+      {
+        "filename": "04.jpg",
+        "caption": {
+          "es": "Espacio comunitario en azotea verde",
+          "en": "Community space on green rooftop"
+        }
+      },
+      {
+        "filename": "05.jpg",
+        "caption": {
+          "es": "Senderos entre jardines comunitarios",
+          "en": "Pathways through community gardens"
+        }
+      },
+      {
+        "filename": "06.jpg",
+        "caption": {
+          "es": "Cocina integrada con hierbas frescas",
+          "en": "Kitchen integrated with fresh herbs"
+        }
+      },
+      {
+        "filename": "07.jpg",
+        "caption": {
+          "es": "Sala de yoga al aire libre",
+          "en": "Outdoor yoga studio"
+        }
+      },
+      {
+        "filename": "08.jpg",
+        "caption": {
+          "es": "Piscina natural entre vegetación",
+          "en": "Natural pool among vegetation"
+        }
+      },
+      {
+        "filename": "09.jpg",
+        "caption": {
+          "es": "Detalles de jardinería sostenible",
+          "en": "Sustainable gardening details"
+        }
+      },
+      {
+        "filename": "10.jpg",
+        "caption": {
+          "es": "Vista nocturna de iluminación LED",
+          "en": "Evening view of LED lighting"
+        }
+      },
+      {
+        "filename": "11.jpg",
+        "caption": {
+          "es": "Vista aérea del complejo verde",
+          "en": "Aerial view of green complex"
+        }
+      }
+    ],
+    "videos": [
+      {
+        "position": 3,
+        "youtube_url": "PEGA_AQUI_TU_LINK_DE_YOUTUBE",
+        "caption": {
+          "es": "Tour virtual de los jardines",
+          "en": "Virtual tour of the gardens"
+        }
+      },
+      {
+        "position": 8,
+        "youtube_url": "PEGA_AQUI_TU_SEGUNDO_LINK_DE_YOUTUBE",
+        "caption": {
+          "es": "Proceso de construcción ecológica",
+          "en": "Ecological construction process"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "project": {
+    "name": "GINZA PLAZA",
+    "subtitle": {
+      "es": "Elegancia Comercial",
+      "en": "Commercial Elegance"
+    },
+    "description": {
+      "es": "Ginza Plaza captura la esencia del distrito más prestigioso de Tokyo, combinando tradición japonesa con innovación moderna. Este desarrollo comercial de lujo ofrece una experiencia de compras y entretenimiento única en el corazón de Ginza.",
+      "en": "Ginza Plaza captures the essence of Tokyo's most prestigious district, combining Japanese tradition with modern innovation. This luxury commercial development offers a unique shopping and entertainment experience in the heart of Ginza."
+    },
+    "details": {
+      "es": {
+        "ubicación": "Ginza, Tokyo",
+        "año": "2024",
+        "área": "2,800 m²",
+        "tipo": "Comercial de Lujo"
+      },
+      "en": {
+        "location": "Ginza, Tokyo",
+        "year": "2024",
+        "area": "2,800 m²",
+        "type": "Luxury Commercial"
+      }
+    }
+  },
+  "media": {
+    "main_image": "main.jpg",
+    "images": [
+      {
+        "filename": "01.jpg",
+        "caption": {
+          "es": "Fachada principal con elementos tradicionales",
+          "en": "Main facade with traditional elements"
+        }
+      },
+      {
+        "filename": "02.jpg",
+        "caption": {
+          "es": "Atrio central con jardín zen",
+          "en": "Central atrium with zen garden"
+        }
+      },
+      {
+        "filename": "03.jpg",
+        "caption": {
+          "es": "Boutiques de marca internacional",
+          "en": "International brand boutiques"
+        }
+      },
+      {
+        "filename": "04.jpg",
+        "caption": {
+          "es": "Galería de arte contemporáneo",
+          "en": "Contemporary art gallery"
+        }
+      },
+      {
+        "filename": "05.jpg",
+        "caption": {
+          "es": "Restaurante kaiseki de alta cocina",
+          "en": "High-end kaiseki restaurant"
+        }
+      },
+      {
+        "filename": "06.jpg",
+        "caption": {
+          "es": "Terraza con vista a los jardines imperiales",
+          "en": "Terrace overlooking imperial gardens"
+        }
+      },
+      {
+        "filename": "07.jpg",
+        "caption": {
+          "es": "Sala de té tradicional moderna",
+          "en": "Modern traditional tea room"
+        }
+      },
+      {
+        "filename": "08.jpg",
+        "caption": {
+          "es": "Pasaje comercial con techo de cristal",
+          "en": "Shopping passage with glass ceiling"
+        }
+      },
+      {
+        "filename": "09.jpg",
+        "caption": {
+          "es": "Detalles arquitectónicos fusión",
+          "en": "Fusion architectural details"
+        }
+      },
+      {
+        "filename": "10.jpg",
+        "caption": {
+          "es": "Iluminación nocturna elegante",
+          "en": "Elegant night illumination"
+        }
+      },
+      {
+        "filename": "11.jpg",
+        "caption": {
+          "es": "Plaza de entrada ceremonial",
+          "en": "Ceremonial entrance plaza"
+        }
+      },
+      {
+        "filename": "12.jpg",
+        "caption": {
+          "es": "Integración perfecta con el entorno urbano",
+          "en": "Perfect integration with urban environment"
+        }
+      }
+    ],
+    "videos": [
+      {
+        "position": 3,
+        "youtube_url": "PEGA_AQUI_TU_LINK_DE_YOUTUBE",
+        "caption": {
+          "es": "Experiencia de compras premium",
+          "en": "Premium shopping experience"
+        }
+      },
+      {
+        "position": 7,
+        "youtube_url": "PEGA_AQUI_TU_SEGUNDO_LINK_DE_YOUTUBE",
+        "caption": {
+          "es": "Fusión de tradición y modernidad",
+          "en": "Fusion of tradition and modernity"
+        }
+      }
+    ]
+  }
+}
